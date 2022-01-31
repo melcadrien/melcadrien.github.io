@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-theme: jekyll-theme-hacker
+theme: hacker
 ---
 # About page
 
