@@ -3,4 +3,4 @@ layout: default
 title: Home
 ---
 <h1>{{ "Hello World!"}}</h1>
-Self-Note: Give me my theme.
+My portfolio theme is up and running!  Yay!
