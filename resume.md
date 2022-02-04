@@ -6,11 +6,11 @@ title: Resume
 
 # Education
 
-### Westminster College
+### Westminster College [Link](https://westminstercollege.edu/)
 - Bachelor of Science Computer Science
 - Graduated in 2012
 
-### Salt Lake Community College
+### Salt Lake Community College [Link](https://www.slcc.edu/)
 - Computer Certification
 - Earned in 2021
 
