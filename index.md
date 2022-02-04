@@ -2,7 +2,8 @@
 layout: default
 title: Home
 ---
-## Hello World!
+
+# Hello World!
 
 I am Jordan Arnold and I am a Computer Science Graduate looking to join in the field of programming.
 
