@@ -5,8 +5,6 @@ title: Projects
 
 Here is a few projects that I have done during my school years.
 
-## TODO - Let's go with code samples and some images of the work.
-
 ## BlackJack
 - A card game made in Java as a project during my early years at Westminster College
 - It plays Blackjack.  The only limitation it has is it cannot play for a long time.
